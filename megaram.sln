@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegaramDominio", "MegaramDominio\MegaramDominio.csproj", "{168088C5-CF64-434B-8D19-FB9B07D8AE36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegaramWeb", "MegaramWeb\MegaramWeb.csproj", "{A163FFDA-41CD-40EE-ADCC-CF691139C252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegaramTeste", "MegaramTeste\MegaramTeste.csproj", "{E9E2D819-64D3-40C7-9B11-5991BEF21659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{168088C5-CF64-434B-8D19-FB9B07D8AE36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{168088C5-CF64-434B-8D19-FB9B07D8AE36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{168088C5-CF64-434B-8D19-FB9B07D8AE36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{168088C5-CF64-434B-8D19-FB9B07D8AE36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A163FFDA-41CD-40EE-ADCC-CF691139C252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A163FFDA-41CD-40EE-ADCC-CF691139C252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A163FFDA-41CD-40EE-ADCC-CF691139C252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A163FFDA-41CD-40EE-ADCC-CF691139C252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9E2D819-64D3-40C7-9B11-5991BEF21659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9E2D819-64D3-40C7-9B11-5991BEF21659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9E2D819-64D3-40C7-9B11-5991BEF21659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9E2D819-64D3-40C7-9B11-5991BEF21659}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
